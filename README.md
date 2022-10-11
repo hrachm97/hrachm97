@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Hrach
 - 👀 I’m interested in computer science, mathematics, automation, digital art, motion graphics.
-- 🌱 I’m currently learning C++, and JS for automation of animation tools in programm After Effects.
-- 💞️ I’m looking to collaborate on video animation template building and automation projects.
-- 📫 How to reach me ... https://www.linkedin.com/in/hrach-mkrtumyan-0252b7191
+- 🌱 Have deeply studied Object Oriented Programming Paradigm on C++ multiparadigm language.
+- 💞️ I automate video creation processes for video animators to waste less time on repetitive and primitive operations and spend more time on creativity and fine art. I handle this applying Adobe developer tools, using scripts and expressions applied in After Effects.
+- 📫 How to reach me ... https://www.linkedin.com/in/hrach-mkrtumyan-video-creation-automation/
 - hrachmkrtumyan@gmail.com
 
 <!---
